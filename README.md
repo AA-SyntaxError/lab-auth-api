@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview for Lab 3:
 This project was created to practice the use of **JWT**, especially in authentication.  
 It is similar to the previous project, which also made use of an API. The API  
 supports user registration, login, and other operations while ensuring that  
